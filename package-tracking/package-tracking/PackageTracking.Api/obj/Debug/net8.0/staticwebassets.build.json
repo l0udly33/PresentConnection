@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L/mWFC0y7BTh7lrLQZXsvzOaK79AGc2kjI4lQ5mT3NQ=",
+  "Source": "PackageTracking.Api",
+  "BasePath": "_content/PackageTracking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
